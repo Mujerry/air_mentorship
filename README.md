@@ -13,7 +13,7 @@ This class covers the fundamental building blocks for python.
 
 This class covers the numpy library and shows how we can use it for manipulating arrays through indexing and selection as well as the common numpy operations on arrays and lists.
 
-##### Facilitator: Franics Jeremy Tusubira
+##### Facilitator: Francis Jeremy Tusubira
 
 ### 03-Intro to Pandas
 
