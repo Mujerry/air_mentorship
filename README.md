@@ -23,6 +23,6 @@ This class covers the pandas library that is used for data manipulation and anal
 
 ### 04 - Python for Data Visualization 2/3/19
 
-This class introduces the ways we can visualize data in python. we look at tools like matplotlib, cufflinks, and the best practices to visualize data so that it can easily be communicated.
+This class introduces the ways we can visualize data in python. we look at tools like matplotlib and seaborn. We shall also cover the best practices on how to visualize data so that it can easily be communicated.
 
 ##### Facilitator: Paul Green 
